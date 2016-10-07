@@ -1,0 +1,18 @@
+body {
+    background: url('Cayman-Islands-281.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+
+.navbar {
+    text-align: right;
+    background: rgba(255,255,255,0.4);
+    margin: 0 0 0 10px;
+}
+
+.box {
+    text-align: center;
+    width: 700px;
+    margin: 20px auto; 
+    padding: 30px;
+    background: rgba(255,255,255,0.7);
+}
